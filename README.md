@@ -34,7 +34,7 @@ If you don't have XAMPP installed, download it from [https://www.apachefriends.o
 1. Open `application/config/config.php` 
 2. Ensure the base_url is set correctly:
    ```php
-   $config['base_url'] = 'http://localhost/employee_management/';
+   $config['base_url'] = 'http://localhost/employee_management/index.php';
    ```
 3. Open `application/config/database.php` and ensure your database settings are correct:
    ```php
