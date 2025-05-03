@@ -1,6 +1,6 @@
-# Employee Management System
+# Employee Management System - Installation Guide
 
-A complete Employee Management System built with CodeIgniter 3 and MySQL.
+This is a complete Employee Management System built with CodeIgniter 3 and MySQL. Follow these steps to set up and run the application on your local environment using XAMPP.
 
 ## Prerequisites
 - XAMPP (with PHP 7.3 or higher)
